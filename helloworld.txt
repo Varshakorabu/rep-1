@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello world 
 from master
+=======
+hello 
+from feature
+>>>>>>> feature
