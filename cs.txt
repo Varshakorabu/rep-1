@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 computer science engineering
 3rd sem
 labs
@@ -7,6 +8,8 @@ tuesday-git
 
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> 7fbdf90 (done cherry-pick)
 BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (master)
 $ git branch
   b1
@@ -142,4 +145,7 @@ monday-java
 tuesday-git
 
 >>>>>>> 5cbaa53 (line deleted)
+<<<<<<< HEAD
+>>>>>>> 7fbdf90 (done cherry-pick)
+=======
 >>>>>>> 7fbdf90 (done cherry-pick)
