@@ -1,6 +1,145 @@
+<<<<<<< HEAD
 computer science engineering
 3rd sem
 labs
 monday-java 
 tuesday-git
 
+=======
+<<<<<<< HEAD
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (master)
+$ git branch
+  b1
+  c1
+* master
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (master)
+$ git checkout b1
+Switched to branch 'b1'
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ git ls-tree --name-only b1
+Helloword.txt
+gg.txt
+h.txt
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ nano gg.txt
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ git add .
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ git commit -m "second"
+[b1 b273eb6] second
+ 1 file changed, 1 insertion(+)
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ nano gg.txt
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ git add .
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ git commit -m "third"
+[b1 29bdd22] third
+ 1 file changed, 1 insertion(+)
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ nano gg.txt
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ git add .
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ git commit -m "fourth"
+[b1 be45b57] fourth
+ 1 file changed, 1 insertion(+)
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ nano gg.txt
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (b1)
+$ git log b1
+commit be45b573414c01f3cf22ab67755c2991a30c446b (HEAD -> b1)
+Author: adityavg <gaddugeaditya@gmail.com>
+Date:   Fri Nov 15 16:24:45 2024 +0530
+
+    fourth
+
+commit 29bdd229c2b0ff16c44a78ebdc4f3d96d7daace2
+Author: adityavg <gaddugeaditya@gmail.com>
+Date:   Fri Nov 15 16:23:58 2024 +0530
+
+    third
+
+commit b273eb6deb2aa0c27a7dbe8c13c345a6e17d1269
+Author: adityavg <gaddugeaditya@gmail.com>
+Date:   Fri Nov 15 16:22:53 2024 +0530
+
+    second
+
+commit 76b6a6ec547f11a1795f6ba0240e07c16be3ffbf
+third
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[c1 85a287f] third hi
+ Date: Fri Nov 15 16:23:58 2024 +0530
+ 1 file changed, 3 insertions(+)
+ create mode 100644 gg.txt
+
+BLDEA-CSE@DESKTOP-F2Q9TL6 MINGW64 /d/2bl23cs002 (c1)
+$ nano gg.txt
+=======
+computer science engineering
+3rd sem
+labs
+monday-java 
+tuesday-git
+
+>>>>>>> 5cbaa53 (line deleted)
+>>>>>>> 7fbdf90 (done cherry-pick)
